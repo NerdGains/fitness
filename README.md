@@ -1,1 +1,1 @@
-# fitness
+# The definitive exercise and nutrition App.
